@@ -16,30 +16,6 @@ CHESS-CLONE-MAIN/
 │   ├── public/
 │   └── package.json
 └── README.md              # Project Documentation
-
-This README.md is designed to live in the root of your project. It provides a professional overview, clear installation instructions for both the Spring Boot backend and React frontend, and a visual guide to your project structure.
-
-README.md
-Markdown
-
-# Chess Clone Project
-
-A full-stack chess application featuring a **Spring Boot** backend with real-time WebSocket communication and a modern **React** frontend.
-
-## 📂 Project Structure
-
-
-
-```text
-CHESS-CLONE-MAIN/
-├── chessbackend/          # Java Spring Boot Application
-│   ├── src/
-│   └── pom.xml
-├── indichessfrontend/     # React.js Application
-│   ├── src/
-│   ├── public/
-│   └── package.json
-└── README.md              # Project Documentation
 🚀 Getting Started
 Prerequisites
 Java 17+ (for the Backend)
